@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ming Zhan"
-description              : "Incoming PhD student at The University of Utah"
+title                    : "Fei Yang"
+description              : "Master's student at Beijing Normal University"
 repository               : "MingmZhan/MingmZhan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ming Zhan"
+  name             : "Fei Yang"
   avatar           : "images/profile.png"
-  bio              : "University of Utah"
-  location         : "Utah, USA"
+  bio              : "Beijing Normal University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhanming1208@gmail.com"
+  email            : "0902fei.yang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
