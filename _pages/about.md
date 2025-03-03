@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am a final-year Master's student at the School of Mathematical Science, Beijing Normal University ([BNU](https://www.bnu.edu/)), supervised by [Prof. Fusheng Yu](https://math.bnu.edu.cn/jzg/szdw/xy/a6eaeea38f944d17988e5f0aec3e5272.htm). My research interests include fuzzy modeling, granular computing, data mining and machine learning. 
 
-You can find my CV here: [Fei Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](0902fei.yang@gmail.com).
+You can find my CV here: [Fei Yang's Curriculum Vitae](../assets/CV_Fei Yang.pdf). If you are interested in my work, please feel free to drop me an [email](0902fei.yang@gmail.com).
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
