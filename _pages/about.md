@@ -35,7 +35,6 @@ You can find my CV here: [Fei Yang's Curriculum Vitae](../assets/CV_Fei Yang.pdf
 # 📝 Publications 
 🎓During My Master's Research Program
 
-
 1. Design Trend Fuzzy Granulation-Based Three-Layer Fuzzy Cognitive Map for Long-Term Forecasting of Multivariate Time Series
 
 **Fei Yang**, Fusheng Yu, Chenxi Ouyang, Yuqing Tang
