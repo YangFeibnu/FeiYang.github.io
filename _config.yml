@@ -112,22 +112,20 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/  # 全局规则（不影响已单独配置的页面）
+permalink: pretty
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    
 defaults:
-  # 处理 _pages 目录下的所有页面
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: default
       author_profile: true
-  # 单独处理 about.md
-  - scope:
-      path: "_pages/about.md"
-      type: pages
-    values:
-      permalink: /
 
 
 # Plugins
