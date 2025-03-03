@@ -62,36 +62,21 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
+  - _layouts
+  - _includes
+  - assets
+  - images  # 如果存在图片目录
+  - .htaccess
+
 exclude:
-  - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .github
+  - docs/README-zh.html  # 排除原项目文档
+  - Gemfile.lock    # 非必要文件
   - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
   - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
   - node_modules
-  - package.json
-  - tmp
   - vendor
+  - tmp
 keep_files:
   - .git
   - .svn
