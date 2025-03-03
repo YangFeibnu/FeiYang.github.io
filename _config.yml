@@ -6,6 +6,7 @@ g# Welcome to Jekyll!
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://feiyang-bnu.github.io"  # 你的 GitHub Pages 链接
 title                    : "Fei Yang"
 description              : "Master's student at Beijing Normal University"
 repository               : "feiyang-bnu/feiyang-bnu.github.io"
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Fei Yang"
-  avatar           : "images/profile_Fei Yang.jpg"
+  avatar           : "images/profile_FeiYang.jpg"
   bio              : "Beijing Normal University"
   location         : "Beijing, China"
   employer         :
