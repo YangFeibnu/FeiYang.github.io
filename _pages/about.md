@@ -18,17 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
+I am now a master's student at [Beijing Normal University]([https://www.bnu.edu.cn/]), [School of Mathematical Sciences]([https://math.bnu.edu.cn/]). Fortunately, I am supervised by [Prof. Fusheng Yu](https://math.bnu.edu.cn/jzg/szdw/xy/a6eaeea38f944d17988e5f0aec3e5272.htm).
+I graduated with my B.S. from the College of Science, Beijing University of Posts and Telecommunications (BUPT). Then I was recommended to the School of Mathematical Sciences at Beijing Normal University (BNU), where I am completing my M.S. under Prof. Fusheng Yu’s supervision.
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
-
-From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
-
-In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
-
-My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
+My research interests includes fuzzy modeling, granular computing, data mining and machine learning. 
 
 You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
 
@@ -103,16 +96,18 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 
 # 🎖 Honors and Awards
-- *2024.06* Beijing Outstanding Graduate (Top 1%)
-- *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
-- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
-
+- *2024.12* University-Level First-class Scholarship
+- *2023.12* University-Level Second-class Scholarship
+- *2022.12* University-Level First-class Freshman Scholarship (Admitted by Postgraduate Recommendation)
+- *2021.12* University-Level First-class Scholarship (Top 3%)
+- *2021.12* Annual Exemplary Student
+- *2021.11* Second Prize for Band C in 2020 National English Competition for College Students
+- *2019.12* University-Level Third-class Scholarship
+- 
 # 📖 Educations
-- *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
+- *2022.09 - 2025.06*, Master of Science in Applied Mathematics, Beijing Normal University, Beijing, China
+  - Supervised by [Prof. Fusheng Yu](https://math.bnu.edu.cn/jzg/szdw/xy/a6eaeea38f944d17988e5f0aec3e5272.htm)
+- *2018.09 - 2022.06*, Bachelor of Science in Mathematics and Applied Mathematics, Beijing University of Posts and Telecommunications, Beijing, China
 
 <!--
 # 💬 Invited Talks
@@ -120,8 +115,14 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
-- 🎓During My Master's Research Program
+# 💻 Skills
+- Python, PyTorch, TensorFlow, PyQt5
+- C/C++, Qt
+- MySql
+- SAS, R
+- Matlab, Mathematica
+- Latex, Markdown
+- Linux, Vim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
