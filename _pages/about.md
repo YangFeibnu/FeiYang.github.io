@@ -41,7 +41,6 @@ You can find my CV here: [Fei Yang's Curriculum Vitae](../assets/CV_FeiYang.pdf)
 **Fei Yang**, Fusheng Yu, Chenxi Ouyang, Yuqing Tang
 
 [**Paper**](https://doi.org/10.1109/TFUZZ.2024.3474476) | <strong>SCI Journal Paper</strong>
-
 - IEEE Transactions on Fuzzy Systems, vol. 32, no. 12, pp. 7037-7049, 2024, doi: 10.1109/TFUZZ.2024.3474476.
 
 2. Constructing Spatial Relationship and Temporal Relationship Oriented Composite Fuzzy Cognitive Maps for Multivariate Time Series Forecasting
