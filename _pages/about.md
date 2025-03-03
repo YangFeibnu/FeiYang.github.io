@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am a final-year Master's student at the School of Mathematical Science, Beijing Normal University ([BNU](https://www.bnu.edu/)), supervised by [Prof. Fusheng Yu](https://math.bnu.edu.cn/jzg/szdw/xy/a6eaeea38f944d17988e5f0aec3e5272.htm). My research interests include fuzzy modeling, granular computing, data mining and machine learning. 
+I am a final-year Master's student at the School of Mathematical Science, Beijing Normal University ([BNU](https://www.bnu.edu.cn/)), supervised by [Prof. Fusheng Yu](https://math.bnu.edu.cn/jzg/szdw/xy/a6eaeea38f944d17988e5f0aec3e5272.htm). My research interests include fuzzy modeling, granular computing, data mining and machine learning. 
 
 You can find my CV here: [Fei Yang's Curriculum Vitae](../assets/CV_FeiYang.pdf). If you are interested in my work, please feel free to drop me an [email](0902fei.yang@gmail.com).
 
@@ -97,9 +97,6 @@ Chenxi Ouyang, **Fei Yang**, Fusheng Yu, Witold Pedrycz, Wladyslaw Homenda, Jiaq
 - Matlab, Mathematica
 - Latex, Markdown
 - Linux, Vim
-
-</div>
-</div>
 
 ------
 
