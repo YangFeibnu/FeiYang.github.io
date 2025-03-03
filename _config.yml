@@ -103,15 +103,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
 
 
 # Sass/SCSS
@@ -121,8 +112,22 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:title/  # 全局规则（不影响已单独配置的页面）
+
+defaults:
+  # 处理 _pages 目录下的所有页面
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+  # 单独处理 about.md
+  - scope:
+      path: "_pages/about.md"
+      type: pages
+    values:
+      permalink: /
 
 
 # Plugins
