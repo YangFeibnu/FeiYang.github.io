@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-url                      : "https://feiyang-bnu.github.io"  # 你的 GitHub Pages 链接
+url                      : "https://FeiYangbnu.github.io"  # 你的 GitHub Pages 链接
 title                    : "Fei Yang"
 description              : "Master's student at Beijing Normal University"
-repository               : "feiyang-bnu/feiyang-bnu.github.io"
+repository               : "FeiYangbnu/FeiYang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ca6ZGawAAAAJ"
-  email            : "0902fei.yang@gmail.com"
+  email            : "fei.yang@mail.bnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "feiyang-bnu"
+  github           : FeiYangbnu"
   google_plus      :
   keybase          :
   instagram        :
